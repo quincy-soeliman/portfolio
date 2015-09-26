@@ -1,0 +1,11 @@
+body {
+	background-color: #262626;
+}
+
+h1.title {
+	font-family: Arial;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
